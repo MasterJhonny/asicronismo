@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "trabajr con asincronismo de javascript",
+  "main": "index.js",
+  "scripts": {
+    "call": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Jhonny",
+  "license": "ISC"
+}
