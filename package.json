@@ -4,7 +4,8 @@
   "description": "trabajr con asincronismo de javascript",
   "main": "index.js",
   "scripts": {
-    "call": "node src/callback/index.js"
+    "call": "node src/callback/index.js",
+    "reto": "node src/callback/challeng.js"
   },
   "keywords": [
     "callbacks",
@@ -12,5 +13,8 @@
     "async"
   ],
   "author": "Jhonny",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
