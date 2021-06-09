@@ -6,7 +6,9 @@
   "scripts": {
     "call": "node src/callback/index.js",
     "reto": "node src/callback/challeng.js",
-    "repaso": "node src/callback/repasoCallback.js"
+    "repaso": "node src/callback/repasoCallback.js",
+    "rep": "node src/callback/repaso2Callback.js",
+    "promi": "node src/promise/index.js"
   },
   "keywords": [
     "callbacks",
