@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "call": "node src/callback/index.js",
-    "reto": "node src/callback/challeng.js"
+    "reto": "node src/callback/challeng.js",
+    "repaso": "node src/callback/repasoCallback.js"
   },
   "keywords": [
     "callbacks",
