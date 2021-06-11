@@ -8,7 +8,10 @@
     "reto": "node src/callback/challeng.js",
     "repaso": "node src/callback/repasoCallback.js",
     "rep": "node src/callback/repaso2Callback.js",
-    "promi": "node src/promise/index.js"
+    "promi": "node src/promise/index.js",
+    "pro": "node src/promise/repasoPromi.js",
+    "retopro": "node src/promise/reto.js",
+    "reto2": "node src/promise/reto2.js"
   },
   "keywords": [
     "callbacks",
