@@ -11,7 +11,9 @@
     "promi": "node src/promise/index.js",
     "pro": "node src/promise/repasoPromi.js",
     "retopro": "node src/promise/reto.js",
-    "reto2": "node src/promise/reto2.js"
+    "reto2": "node src/promise/reto2.js",
+    "repasoReto": "node src/promise/repasoReto.js",
+    "asin": "node src/async/index.js"
   },
   "keywords": [
     "callbacks",
