@@ -13,7 +13,9 @@
     "retopro": "node src/promise/reto.js",
     "reto2": "node src/promise/reto2.js",
     "repasoReto": "node src/promise/repasoReto.js",
-    "asin": "node src/async/index.js"
+    "asin": "node src/async/index.js",
+    "repaAs": "node src/async/repasoAsync.js",
+    "retoA": "node src/async/reto.js"
   },
   "keywords": [
     "callbacks",
